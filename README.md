@@ -11,9 +11,3 @@
 - [Pyside ve Pyqt ile  Status Barı  Qwidget ile Kullanmak](http://feedproxy.google.com/~r/blalyasar-programlama/~3/H0cfWLkaG2Q/pyside-ve-pyqt-ile-status-bar-qwidget.html)
 - [Medium Hesabımdan Yazılarımı Sildim.](http://feedproxy.google.com/~r/blalyasar-programlama/~3/Ndi3X4m-NMk/medium-hesabmdan-yazlarm-sildim.html)
 <!-- BLOG-POST-LIST:END -->
-
-### 📋 Latest Blog Posts2 📋
-
-<!-- BLOG-POST-LIST2:START -->
-
-<!-- BLOG-POST-LIST2:END -->
