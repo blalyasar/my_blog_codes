@@ -5,9 +5,9 @@
 ### 📋 Latest Blog Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
-- [Github Projelerim — 9 -&gt; Python ile Resimlerin Arka planını kaldırma](https://blalyasar.blogspot.com/2021/04/github-projelerim9-python-ile.html)
-- [Github Projelerim — 8 -&gt; pyside-sprint-animate ve  pyside-opencv](https://blalyasar.blogspot.com/2021/03/github-projelerim8-pyside-sprint.html)
-- [Linuxta &quot;grep&quot; alternatifi &quot;sift&quot; testi](https://blalyasar.blogspot.com/2021/03/linuxta-grep-alternatifi-sift-testi.html)
-- [Python Programlama Dili İle Harita Çizmek](https://blalyasar.blogspot.com/2021/02/python-programlama-dili-ile-harita.html)
-- [Pyside ve Pyqt ile  Status Barı  Qwidget ile Kullanmak](https://blalyasar.blogspot.com/2021/02/pyside-ve-pyqt-ile-status-bar-qwidget.html)
+- [MacOS İşletim sisteminde Uygulamayı Tamamen Sİlme](https://blalyasar.blogspot.com/2022/10/macos-isletim-sisteminde-uygulamay.html)
+- [Macos Macbook Pro Uyku Modunda Ethernet - Lan Bağlantısı Kopması](https://blalyasar.blogspot.com/2022/09/macos-macbook-pro-uyku-modunda-ethernet.html)
+- [Linux terminalde messagebox pop up pencere görsel ekran oluşturma](https://blalyasar.blogspot.com/2021/11/linux-terminalde-messagebox-pop-up.html)
+- [Github Projelerim 11 -&gt; Flutter Webview Kullanımı ve Webview Android İzinleri](https://blalyasar.blogspot.com/2021/09/github-projelerim-11-flutter-webview.html)
+- [Github Projelerim 10 -&gt;  C++ ile Resim Kenar bulma ve Python Turtle ile Nokta Nokta Görselleştirme](https://blalyasar.blogspot.com/2021/08/c-ile-resim-kenar-bulma-ve-python.html)
 <!-- BLOG-POST-LIST:END -->
